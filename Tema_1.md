@@ -1,5 +1,5 @@
 # Тема 1. Введение в Python
-Отчет по Теме #2 выполнил(а):
+Отчет по Теме #1 выполнил(а):
 - Смирнова Анна Евгеньевна
 - ИВТ-22-2
 
@@ -29,54 +29,60 @@
 ## Лабораторная работа №1
 2.1. Установка
 ### Результат.
-![Меню](https://github.com/vnika2003/Software_Engineering/blob/Тема_2/pic/Lab2_1.png)
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-06%20(2).png)
 
 
 ## Лабораторная работа №2
 2.2. Настройка
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09.png)
 
 ## Лабораторная работа №3
 2.3. Создание нового репозитория
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(1).png)
   
 ## Лабораторная работа №4
 2.4. Подготовка файлов
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(2).png)
 
 ## Лабораторная работа №5
 2.5. Фиксация изменений
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(3).png)
 
 ## Лабораторная работа №6
 2.6. Подключение к удаленному репозиторию
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(5).png)
 
 ## Лабораторная работа №7
 2.7. Ветвление
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(6).png)
 
 ## Лабораторная работа №8
 2.8. Особенности применения «Фетч»
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(7).png)
 
 ## Лабораторная работа №9
 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
-
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(8).png)
 
 ## Лабораторная работа №10
 2.10. Отслеживание изменений в коммитах
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(9).png)
 
 ## Лабораторная работа №11
 2.11. Возвращение файла к предыдущему (определенному) состоянию
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(10).png)
 
 ## Лабораторная работа №12
 2.12. Возвращение к предыдущему коммиту
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(11).png)
 
 ## Лабораторная работа №13
 2.13. Исправление коммита
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(12).png)
 
 ## Лабораторная работа №14
 2.14. Разрешение конфликтов при слиянии
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(13).png)
 
 ## Лабораторная работа №15
 2.15. Настройка .gitignore
