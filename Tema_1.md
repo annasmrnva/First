@@ -80,7 +80,7 @@
 
 ## Лабораторная работа №15
 2.15. Настройка .gitignore
-https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(14).png
+![Меню](https://github.com/annasmrnva/First/blob/%D0%A2%D0%B5%D0%BC%D0%B0_1/image/2024-09-09%20(14).png)
 
 
 ## Общие выводы по теме
